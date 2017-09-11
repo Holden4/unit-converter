@@ -1,1 +1,1 @@
-# A simple unit converter that converts pounds to kilograms and vice versa in php
+# A simple unit converter that converts pounds to kilograms and miles to kilometers in php
